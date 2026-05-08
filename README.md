@@ -1,4 +1,4 @@
-# 🌍 Global Development Dashboard
+# 🌍 Global Development Indicators Dashboard - 2023
 
 Interactive Power BI dashboard showcasing worldwide economic, environmental, health, and education insights through data cleaning, modeling, and visualization.
 
